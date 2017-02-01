@@ -7,7 +7,7 @@ $exampleStudent = new Student("u0123456", "John", "Smith");
 echo "<p>".$exampleStudent->getFullName()."</p>";
 ```
 
-Have a look at class-diagram.png it shows relationships between a Student class and Module and Course classes. The class diagram show some methods but setter/getter methods aren't shown. 
+Have a look at class-diagram.png it shows relationships between a Student class and Module and Course classes. The class diagram shows some methods for the classes but setter/getter methods aren't shown. 
 
 We are going to implement these relationships in PHP code. 
 

@@ -68,7 +68,7 @@ Uncomment the following code to check this works.
 // echo "<p>".$exampleStudent->getFullName()." is taking ".$exampleStudent->getTotalCredits()." credits</p>";
 
 /*
-Modify the StudnetPrinter class so that it prints out the full details for a student - course they are studying and the modules they are attached to.
+Modify the StudentPrinter class so that it prints out the full details for a student - course they are studying and the modules they are attached to.
 Uncomment the following code to check this works. 
 */
 
